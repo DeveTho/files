@@ -1,0 +1,11 @@
+.path-name {
+	word-break: break-all;
+}
+
+#main {
+	padding: 50px 0;
+}
+
+table#file-table td.table-data-item-icon {
+	width: 25px;
+}
