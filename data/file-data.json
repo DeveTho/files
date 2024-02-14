@@ -3,5 +3,5 @@
 	{ "type": "directory", "path": "/lol-semifinals/2015-10-24", "contentPath": false },
 	{ "type": "directory", "path": "/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM", "contentPath": false },
 	{ "type": "directory", "path": "/lol-semifinals/2015-10-25", "contentPath": false },
-	{ "type": "file", "path": "/test.txt", "contentPath": "/ext/test.txt" }
+	{ "type": "file", "path": "/test.txt", "contentPath": "ext/test.txt" }
 ]
